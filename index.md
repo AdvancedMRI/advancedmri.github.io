@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Advanced MRI Technoligies</h1>
+<p>Code and documentation for the Feinberg Lab.</p>
 </body>
 </html>
